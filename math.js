@@ -11,6 +11,10 @@
 // var result = Math.floor(number);
 // console.log(result);
 
-var number = 5.788;
-var result = Math.random(number);
+// var number = 5.788;
+// var result = Math.random(number);
+// console.log(result);
+
+var number = Math.random()*100;
+var result = Math.round(number);
 console.log(result);
