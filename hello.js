@@ -8,6 +8,7 @@ var isHot =true;
 console.log(typeof isHot);
 
 var habiba= 'how Are You';
+
 console.log(habiba.toLowerCase());
 console.log(habiba.indexOf('You'));
 
