@@ -11,6 +11,6 @@ var habiba= 'how Are You mahbob';
 
 console.log(habiba.toLowerCase());
 console.log(habiba.indexOf('You'));
-console.log(habiba.split('o'));
+console.log(habiba.split(' '));
 
 
