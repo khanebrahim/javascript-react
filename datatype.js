@@ -11,6 +11,7 @@
 // var total = number3+number4;
 // total=total.toFixed(1);
 // console.log(total);
+
 var price1 = 34;
 var price2 =44;
 price2++;
