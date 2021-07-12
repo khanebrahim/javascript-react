@@ -7,3 +7,7 @@ console.log(typeof name);
 var isHot =true;
 console.log(typeof isHot);
 
+var habiba= 'how Are You';
+console.log(habiba.toLowerCase());
+
+
