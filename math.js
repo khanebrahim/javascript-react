@@ -7,6 +7,10 @@
 // var result = Math.ceil(number);
 // console.log(result);
 
+// var number = 5.788;
+// var result = Math.floor(number);
+// console.log(result);
+
 var number = 5.788;
-var result = Math.floor(number);
+var result = Math.random(number);
 console.log(result);
