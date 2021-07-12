@@ -7,9 +7,10 @@ console.log(typeof name);
 var isHot =true;
 console.log(typeof isHot);
 
-var habiba= 'how Are You';
+var habiba= 'how Are You mahbob';
 
 console.log(habiba.toLowerCase());
 console.log(habiba.indexOf('You'));
+console.log(habiba.split('o'));
 
 
