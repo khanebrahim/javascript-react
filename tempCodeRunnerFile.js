@@ -1,1 +1,1 @@
-number2= parseFloat(number2);
+var newPrice2 = price2 + 1;
