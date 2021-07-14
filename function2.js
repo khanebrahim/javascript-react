@@ -13,7 +13,7 @@ function add(num1,num2){
 }
 
 var sum1 = add(15,45);
-console.log(sum1);
+console.log(sum1,total,second);
 
 
 
